@@ -1,4 +1,4 @@
-# Portrait-Prallax
+# Portrait-Parallax
 Prallax scrolling with portrait picture
 
 #### Original Image
